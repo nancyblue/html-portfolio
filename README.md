@@ -49,6 +49,9 @@ Contact Info (contact.html)
 This page provides my contact information in a visually appealing format, with:
 
 # My email address and LinkedIn profile.
+Email: nancy.dragon.zapata@gmail.com
+LinkedIn: www.linkedin.com/in/nancydragon
+
 # Embeded GIF
 fun GIF to add a personal touch and make the page more engaging.
 # Footer
@@ -72,7 +75,7 @@ Thank you for taking the time to explore my online resume. I hope it provides a 
 Feel free to reach out to me for any questions or collaboration opportunities!
 
 Email: nancy.dragon.zapata@gmail.com
-LinkedIn: Nancy's LinkedIn Profile
+LinkedIn: www.linkedin.com/in/nancydragon
 GitHub: NancyBlue
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 I hope you find this project as enjoyable to explore as I did creating it. Happy browsing!
