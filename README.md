@@ -31,9 +31,12 @@ High School achievements at Stephen F. Austin High School.
 # Skills
 A comprehensive list of my technical skills, language proficiencies, and soft skills:
 
-# Technical Proficiencies: JavaScript, HTML5, CSS, React.js, Node.js, SQL, and more.
-# Languages: Fluent in English and Spanish, basic knowledge of Korean, French, and ASL.
-# Soft Skills: Effective communicator, creative problem solver, highly organized, and more.
+# Technical Proficiencies:
+JavaScript, HTML5, CSS, React.js, Node.js, SQL, and more.
+# Languages:
+ Fluent in English and Spanish, basic knowledge of Korean, French, and ASL.
+# Soft Skills: 
+Effective communicator, creative problem solver, highly organized, and more.
 # Work Experience
 An outline of my professional experience, including roles such as Pet Carer, Organizing Specialist, Front Desk Reception at Lake Travis Animal Hospital, and Barista Trainer at Starbucks.
 
